@@ -85,9 +85,9 @@ Ziel: Alle Artefakte finden und sammeln und das Ziel ohne zu sterben innerhalb e
 Screenshots: 
 ---------------------------
 
-![alt text](app-screenshots/Game.png)
-![alt text](app-screenshots/Game1.png)
-![alt text](app-screenshots/Game2.png)
-![alt text](app-screenshots/Game3.png)
+![alt text](game-screenshots/Game.png)
+![alt text](game-screenshots/Game1.png)
+![alt text](game-screenshots/Game2.png)
+![alt text](game-screenshots/Game3.png)
 
 + auch im Ordner "game-screenshots"
