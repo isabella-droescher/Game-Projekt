@@ -81,6 +81,14 @@ Erweiterung:
 - [ ] Schwierigkeitsgrad Zeitlimit
 Ziel: Alle Artefakte finden und sammeln und das Ziel ohne zu sterben innerhalb einer gewissen Zeit erreichen.
 
+Wireframes: 
+---------------------------
+![alt text](wireframes_figma/Startseite%201920%20x%201080.png)
+![alt text](wireframes_figma/Auswahl%201920%20x%201080.png)
+![alt text](wireframes_figma/Gameplay%20HUD%201920%20x%201080.png)
+
++ & weitere im Ordner `wireframes_figma`
+
 
 Screenshots: 
 ---------------------------
@@ -93,4 +101,12 @@ Screenshots:
 ![alt text](game-screenshots/Game013.png)
 ![alt text](game-screenshots/Game014.png)
 
-+ & weitere im Ordner "game-screenshots"
++ & weitere im Ordner `game-screenshots`
+
+User Flows: 
+----------------------------
+UI + Animationen 
+![alt text](user-flows/User%20Flow%20Diagramm.png)
+![alt text](user-flows/Gegneranimation.png)
+![alt text](user-flows/Schatztruheanimation.png)
+![alt text](user-flows/Schwertanimation.png)
